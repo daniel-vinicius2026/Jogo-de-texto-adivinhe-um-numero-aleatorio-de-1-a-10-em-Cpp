@@ -6,4 +6,4 @@ Jogo de texto C++23. Jogador tem que adivinhar um número de 1 a 10 sabendo no m
 
 Licença: GPL V3 — veja o arquivo LICENSE.
 
-Autor: Badhunter0303 — https://github.com/Badhunter0303
+Autor: Daniel Vinicius — https://github.com/daniel-vinicius2026
